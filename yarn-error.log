@@ -1,0 +1,33 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.12.3/libexec/bin/yarn.js add commander shelljs
+
+PATH: 
+  /Users/kerovieux/.rvm/gems/ruby-2.4.1/bin:/Users/kerovieux/.rvm/gems/ruby-2.4.1@global/bin:/Users/kerovieux/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/kerovieux/.rvm/bin:/Users/kerovieux/.rvm/bin:/usr/local/bin
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  12.16.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND www.wizplant.online
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+
+npm manifest: 
+  {
+    "name": "deploy-tool",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "keroVieux",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

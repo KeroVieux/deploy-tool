@@ -1,0 +1,11 @@
+{
+  "name": "deploy-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "keroVieux",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
